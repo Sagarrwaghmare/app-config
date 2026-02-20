@@ -1,3 +1,4 @@
 [
-  {"app":"cycledonation","active":true}
+  {"app":"cycledonation","active":true},
+  {"app":"anotherapp","active":false}
 ]
